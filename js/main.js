@@ -74,5 +74,4 @@ for (let i =9; i < 18; i++)
     scheduleRowDiv.append(scheduleColDiv3);
     // add row to the schedule content
     $('.scheduleContent').append(scheduleRowDiv);
-
 }
