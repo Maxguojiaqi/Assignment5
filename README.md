@@ -1,7 +1,7 @@
 # Assignment 5  Work Day Scheduler
 
 A simple calendar application that allows the user to save events for each hour of the day. 
-
+Project URL: https://maxguojiaqi.github.io/Assignment5/
 
 ```
 After open the planner, current day is displayed at the top of the calendar
@@ -22,6 +22,7 @@ The following is a screen capture of the web application:
 This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
 For details about jQuery, visit: https://jquery.com/
 This app uses a third party library 'Moment.js', for details about moment.js, visit https://momentjs.com/
+
 
 
 
